@@ -8,7 +8,7 @@
 - Made with JavaScript, HTML and CSS3.
 - Live Demo:👇
 
-- [x] []()
+- [x] [https://music-player-d.netlify.app/]()
 
 
 
