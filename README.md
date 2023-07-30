@@ -14,7 +14,7 @@ https://music-player-d.netlify.app/
 
 ## Project Overview:
 
-The Music Player Using Doubly Linked List is a web-based application that allows users to manage and play their music playlists efficiently. 
+The Music Player Using Doubly Linked List is a web-based application that allows users to  play their music playlists efficiently. 
 The project combines the power of data structures with HTML, CSS, and JavaScript to create an intuitive user interface and seamless playback experience.
 
 ## Aout the application
