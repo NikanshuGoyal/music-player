@@ -15,7 +15,15 @@
 .down-margin {
   margin-bottom: 25px;
 }
+.name{
+  color:white;
+  align-items: center;
+  font-size: 60px;
+  display: flex;
+  margin-top: -600px;
+  margin-right: -380px;
 
+}
 .right-margin {
   margin-right: 15px;
 }
@@ -31,6 +39,7 @@
   height: 100vh;
   background-color: #243441;
   flex-wrap: wrap;
+  text-align: center;
 }
 
 .music-player-wrapper {
